@@ -8,6 +8,10 @@ import java.util.Scanner;
 /**
  *
  * @author Rheiza
+ * NAMA : RHEIZA AKMAL R
+ * KELAS : IF2
+ * NIM : 10119061
+ * Deskripsi Program : untuk mengetahui warna kepribadian user
  */
 public class PBOIF210119061Latihan40WarnKepribadian {
 
